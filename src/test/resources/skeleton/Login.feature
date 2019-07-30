@@ -26,7 +26,7 @@ Questions:
  And  change the shipping address to a new address as "Pune"
  Then the product should be delivered to the new address
  
-@datatable
+ @datatable
 Scenario: the one where user search multiple products
 When user search the below producs:
 |Headphone|
