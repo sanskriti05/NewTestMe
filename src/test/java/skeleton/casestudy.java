@@ -1,7 +1,6 @@
 package skeleton;
 
 import org.testng.Assert;
-import org.testng.AssertJUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
