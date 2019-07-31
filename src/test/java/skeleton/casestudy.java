@@ -25,6 +25,7 @@ public class casestudy {
 	}
 	
 	
+	
 	@When("user clicks on signup button")
 	public void user_clicks_on_signup_button() {
 		  driver.findElement(By.partialLinkText("SignUp")).click();
