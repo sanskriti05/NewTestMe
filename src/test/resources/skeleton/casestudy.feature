@@ -1,4 +1,4 @@
-
+@test
     Feature: Login
 
 In order to login in TestMe App
