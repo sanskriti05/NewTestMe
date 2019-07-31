@@ -13,6 +13,7 @@ Business rules:
 Questions:
  - Can guest user purchasee a product
  
+ 
  Background:
  Given user is on the TestMeApp
  

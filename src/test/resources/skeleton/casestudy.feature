@@ -33,6 +33,7 @@ Given user is on the TestMeApp
  And   user enters the answer "patna"
  Then  user click on register button
  
+ 
 @gullu
 Scenario Outline: user can do the successful login 
 When user clicks on signin button

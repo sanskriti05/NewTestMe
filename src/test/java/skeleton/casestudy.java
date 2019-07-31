@@ -24,6 +24,7 @@ public class casestudy {
 		  driver.get("http://10.232.237.143:443/TestMeApp/fetchcat.htm");
 	}
 	
+	
 	@When("user clicks on signup button")
 	public void user_clicks_on_signup_button() {
 		  driver.findElement(By.partialLinkText("SignUp")).click();
