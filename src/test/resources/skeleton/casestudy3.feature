@@ -9,6 +9,7 @@ Business rules:
  - Ony registered users can login
  - password should be masked
  
+ 
 Questions:
  - Can guest user purchasee a product
  

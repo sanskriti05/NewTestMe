@@ -204,6 +204,7 @@ driver.findElement(By.name("password")).sendKeys("Password123");
 	WebElement search = driver.findElement(By.xpath("//*[@id='myInput']"));
 		 Actions act = new Actions(driver);
 		 
+		
 		 search.sendKeys("w");
 		 search.sendKeys("e");
 		 search.sendKeys("a");
