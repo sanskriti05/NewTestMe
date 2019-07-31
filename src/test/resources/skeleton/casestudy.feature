@@ -18,6 +18,7 @@ Given user is on the TestMeApp
  Scenario: user can do the successful registration
  
  
+ 
 
  When  user clicks on signup button
  And   user enters the username as "sans05"
